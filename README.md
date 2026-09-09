@@ -36,5 +36,5 @@ A generic, reusable blueprint folder structure housing blank operational checkli
 
 ## 🔗 Let's Connect
 
-*   💼 **LinkedIn:** [Dustin Schreader Profile](www.linkedin.com/in/dustin-schreader-65554023b)
+*   💼 **LinkedIn:** [Dustin Schreader Profile](https://www.linkedin.com/in/dustin-schreader-65554023b)
 *   🌐 **Portfolio / Website:** [Peace Link Interop](https://peacelinkinterop.com/)
