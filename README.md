@@ -1,11 +1,12 @@
 # Hi, I'm Dustin Schreader 👋
 
-I am an **IT Systems Engineer** and **Technical Builder** focused on bridging the gap between advanced cloud technology and real-world business operations. I specialize in designing Agile project architectures, engineering AI workflows, and implementing robust IT service frameworks. I have over 13 years of experience in integration using Cloverleaf interface engine.
+I am an **IT Systems Engineer** and **Technical Builder** focused on bridging the gap between advanced cloud technology and real-world business operations. I specialize in designing Agile project architectures, engineering AI workflows, and implementing robust IT service frameworks. I have over 13 years of experience in integration using Cloverleaf interface engine and have started PeaceLink Interop to help organizations modernize legacy HL7 v2 systems to FHIR.
 
 ---
 
 ## 🛠️ Core Focus Areas
 
+*    **HL7 FHIR Integration Mondernization:** containerized, cloud-ready FastAPI-powered FHIR Modernization Layer. This microservice ecosystem acts as a modern translator wrapper. It captures existing legacy data streams (ADT, ORU) and automatically transforms, validates, and stores them as fully compliant, searchable FHIR R4 JSON resources—without requiring a costly "rip-and-replace" overhaul of your core Electronic Health Record (EHR) system.
 *   🚀 **Agile Project Management:** Architecting DevOps-style project roadmaps to track technical deliverables from concept to implementation using Scrum methodologies.
 *   🖥️ **IT Infrastructure & Security:** Designing secure, scalable system frameworks for small-and-medium businesses, focusing on zero-trust access, automation scripting, and cloud migrations.
 *   📋 **Business Systemization:** Developing modular, folder-structured operational blueprints to turn manual, trade-based workflows into automated, hyper-efficient businesses.
